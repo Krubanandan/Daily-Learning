@@ -1,0 +1,23 @@
+.nameG{
+    border-color: green;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.nameR{
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.numG{
+    border-color: green;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.numR{
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
+}
